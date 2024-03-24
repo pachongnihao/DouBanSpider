@@ -20,6 +20,9 @@ hds=[{'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.3
 {'User-Agent': 'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)'}]
 print('hdsa')
 print('master修改')
+print('test_分支1')
+print('f3')
+
 def book_spider(book_tag):
     page_num=0;
     book_list=[]
